@@ -11,5 +11,13 @@
 
     <artifactId>zjtq-driver-mongodb</artifactId>
 
+    <dependencies>
+        <!--spring boot mongodb-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-mongodb</artifactId>
+        </dependency>
+        <!--spring boot end-->
+    </dependencies>
 
 </project>

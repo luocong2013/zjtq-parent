@@ -65,6 +65,24 @@
                 <artifactId>spring-boot-starter-data-mongodb</artifactId>
                 <version>${springboot.version}</version>
             </dependency>
+            <!--spring boot redis-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-redis</artifactId>
+                <version>${springboot.version}</version>
+            </dependency>
+            <!--spring boot solr-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-solr</artifactId>
+                <version>${springboot.version}</version>
+            </dependency>
+            <!--spring boot elasticsearch-->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+                <version>${springboot.version}</version>
+            </dependency>
             <!--spring boot end-->
 
             <!--mybatis spring boot start-->
