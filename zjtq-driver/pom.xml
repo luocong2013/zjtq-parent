@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>zjtq-parent</artifactId>
+        <groupId>cn.com.tfswx</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>zjtq-driver</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>zjtq-driver-mongodb</module>
+        <module>zjtq-driver-oracle</module>
+        <module>zjtq-driver-mysql</module>
+        <module>zjtq-driver-redis</module>
+        <module>zjtq-driver-elasticsearch</module>
+        <module>zjtq-driver-solr</module>
+        <module>zjtq-driver-hbase</module>
+    </modules>
+
+
+</project>
