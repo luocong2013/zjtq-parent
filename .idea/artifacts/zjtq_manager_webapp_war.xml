@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zjtq-manager-webapp:war">
+    <output-path>$PROJECT_DIR$/zjtq-manager/zjtq-manager-webapp/target</output-path>
+    <root id="archive" name="zjtq-manager-webapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zjtq-manager-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

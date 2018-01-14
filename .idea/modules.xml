@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zjtq-common/zjtq-common.iml" filepath="$PROJECT_DIR$/zjtq-common/zjtq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-elasticsearch/zjtq-driver-elasticsearch.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-elasticsearch/zjtq-driver-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-hbase/zjtq-driver-hbase.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-hbase/zjtq-driver-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-mongodb/zjtq-driver-mongodb.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-mongodb/zjtq-driver-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-mysql/zjtq-driver-mysql.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-mysql/zjtq-driver-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-oracle/zjtq-driver-oracle.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-oracle/zjtq-driver-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-redis/zjtq-driver-redis.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-redis/zjtq-driver-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-solr/zjtq-driver-solr.iml" filepath="$PROJECT_DIR$/zjtq-driver/zjtq-driver-solr/zjtq-driver-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-api/zjtq-manager-api.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager-api/zjtq-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-mapper/zjtq-manager-mapper.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager-mapper/zjtq-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-model/zjtq-manager-model.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager-model/zjtq-manager-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-service/zjtq-manager-service.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager-service/zjtq-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-webapp/zjtq-manager-webapp.iml" filepath="$PROJECT_DIR$/zjtq-manager/zjtq-manager-webapp/zjtq-manager-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjtq-parent.iml" filepath="$PROJECT_DIR$/zjtq-parent.iml" />
+    </modules>
+  </component>
+</project>

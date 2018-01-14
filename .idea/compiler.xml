@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zjtq-common" />
+        <module name="zjtq-driver-elasticsearch" />
+        <module name="zjtq-driver-hbase" />
+        <module name="zjtq-driver-mongodb" />
+        <module name="zjtq-driver-mysql" />
+        <module name="zjtq-driver-oracle" />
+        <module name="zjtq-driver-redis" />
+        <module name="zjtq-driver-solr" />
+        <module name="zjtq-manager-api" />
+        <module name="zjtq-manager-mapper" />
+        <module name="zjtq-manager-model" />
+        <module name="zjtq-manager-service" />
+        <module name="zjtq-manager-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="zjtq-common" target="1.8" />
+      <module name="zjtq-driver" target="1.8" />
+      <module name="zjtq-driver-elasticsearch" target="1.8" />
+      <module name="zjtq-driver-hbase" target="1.8" />
+      <module name="zjtq-driver-mongodb" target="1.8" />
+      <module name="zjtq-driver-mysql" target="1.8" />
+      <module name="zjtq-driver-oracle" target="1.8" />
+      <module name="zjtq-driver-redis" target="1.8" />
+      <module name="zjtq-driver-solr" target="1.8" />
+      <module name="zjtq-manager" target="1.8" />
+      <module name="zjtq-manager-api" target="1.8" />
+      <module name="zjtq-manager-mapper" target="1.8" />
+      <module name="zjtq-manager-model" target="1.8" />
+      <module name="zjtq-manager-service" target="1.8" />
+      <module name="zjtq-manager-webapp" target="1.8" />
+      <module name="zjtq-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

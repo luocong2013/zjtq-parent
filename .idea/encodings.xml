@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-oracle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-driver/zjtq-driver-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjtq-manager/zjtq-manager-webapp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
